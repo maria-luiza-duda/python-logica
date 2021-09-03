@@ -1,0 +1,14 @@
+Faça uma função media que receba 
+por parâmetro dois valores 
+numéricos e uma
+letra. Esta letra representará a 
+operação que se deseja efetuar 
+com os números, se a letra for
+A deverá ser realizada a média 
+aritmética dos dois valores e se 
+for P deverá ser realizada uma
+média ponderada com peso 8 para 
+a primeira nota e peso 2 para a 
+segunda nota. O resultado
+obtido deverá ser retornado pela 
+função e exibido no programa.

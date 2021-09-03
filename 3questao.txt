@@ -1,0 +1,12 @@
+Usando listas, faça um programa
+que receba o nome de 5 
+vendedores e suas respectivas
+vendas em R$, calcule e mostre:
+a. A quantidade de vendas 
+inferiores a 
+R$ 500,00
+b. O nome dos vendedores que 
+realizaram vendas entre 
+R$500,00 e R$ 1000,00
+c. A média das vendas acima 
+de R$1000,00

@@ -1,0 +1,12 @@
+Foi realizada uma pesquisa em uma cidade 
+sobre os seus habitantes. Foram coletados
+dados sobre o salário e o número de filhos. 
+Faça uma função que leia esses dados para 
+um número não determinado de pessoas e 
+retorne a 
+1. média salarial da população, a 
+2. média do número de filhos, o 
+3. maior salário,
+4. a porcentagem da população com salário 
+inferior a um salário mínimo (considere 
+o salário mínimo R$1100,00).

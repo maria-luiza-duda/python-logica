@@ -1,0 +1,13 @@
+Crie um programa que leia um arquivo 
+chamado trabalhadores_entrada.txt
+contendo nomes de trabalhadores seguidos 
+por um número indeterminado de horas
+trabalhadas em um mês separadas por 
+espaço. Crie um novo arquivo 
+trabalhadores_saida.txt construído a 
+partir do primeiro arquivo. Este 
+arquivo de saída deverá conter o nome 
+do trabalhador e um único valor 
+representando a média das horas 
+trabalhadas que encontram-se no arquivo 
+de entrada.

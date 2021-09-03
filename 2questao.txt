@@ -1,0 +1,10 @@
+Faça um programa que preencha 
+um array com um número 
+indeterminado de valores
+inteiros positivos (pare 
+quando o usuário digitar -1), 
+determine e mostre:
+a. O maior número e a posição 
+ocupada por ele no array;
+b. O menor número e a posição 
+ocupada por ele no array.

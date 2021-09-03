@@ -1,0 +1,11 @@
+Faça uma função fatorialduplo que receba 
+por parâmetro um número inteiro
+positivo ímpar N e retorne o fatorial 
+duplo desse número. O fatorial duplo é 
+definido como o
+produto de todos os números naturais 
+ímpares de 1 até algum número natural 
+ímpar N. Por
+exemplo, para:
+a. fatorialduplo(5) = 1*3*5 = 15,
+b. fatorialduplo(9) = 1*3*5*7*9 = 945.
